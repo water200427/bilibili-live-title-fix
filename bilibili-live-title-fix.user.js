@@ -3,7 +3,7 @@
 // @name:zh-TW   Bilibili 直播標題修復
 // @name:zh-CN   Bilibili 直播标题修复
 // @namespace    https://github.com/water200427
-// @version      1.0.0
+// @version      1.0.1
 // @author       water
 // @description  Restore missing Bilibili live title
 // @description:zh-TW  修復 Bilibili 直播間標題未顯示問題
