@@ -47,6 +47,9 @@
 
             margin: 8px 0 10px 12px;
             padding-left: 12px;
+
+            user-select: text;
+            -webkit-user-select: text;
         `;
 
         container.prepend(el);
